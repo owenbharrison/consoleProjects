@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.10.35122.118
+VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "raytracer", "..\raytracer\raytracer.vcxproj", "{7964235A-A233-498D-972D-E88BF609C703}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cloth_sim", "cloth_sim\cloth_sim.vcxproj", "{F82D086C-25AF-4538-9813-3A089B13C3AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +13,19 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7964235A-A233-498D-972D-E88BF609C703}.Debug|x64.ActiveCfg = Debug|x64
-		{7964235A-A233-498D-972D-E88BF609C703}.Debug|x64.Build.0 = Debug|x64
-		{7964235A-A233-498D-972D-E88BF609C703}.Debug|x86.ActiveCfg = Debug|Win32
-		{7964235A-A233-498D-972D-E88BF609C703}.Debug|x86.Build.0 = Debug|Win32
-		{7964235A-A233-498D-972D-E88BF609C703}.Release|x64.ActiveCfg = Release|x64
-		{7964235A-A233-498D-972D-E88BF609C703}.Release|x64.Build.0 = Release|x64
-		{7964235A-A233-498D-972D-E88BF609C703}.Release|x86.ActiveCfg = Release|Win32
-		{7964235A-A233-498D-972D-E88BF609C703}.Release|x86.Build.0 = Release|Win32
+		{F82D086C-25AF-4538-9813-3A089B13C3AE}.Debug|x64.ActiveCfg = Debug|x64
+		{F82D086C-25AF-4538-9813-3A089B13C3AE}.Debug|x64.Build.0 = Debug|x64
+		{F82D086C-25AF-4538-9813-3A089B13C3AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{F82D086C-25AF-4538-9813-3A089B13C3AE}.Debug|x86.Build.0 = Debug|Win32
+		{F82D086C-25AF-4538-9813-3A089B13C3AE}.Release|x64.ActiveCfg = Release|x64
+		{F82D086C-25AF-4538-9813-3A089B13C3AE}.Release|x64.Build.0 = Release|x64
+		{F82D086C-25AF-4538-9813-3A089B13C3AE}.Release|x86.ActiveCfg = Release|Win32
+		{F82D086C-25AF-4538-9813-3A089B13C3AE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {08000EE8-95A3-4726-974D-A3A6AE2384FF}
+		SolutionGuid = {51143A69-6444-4CDD-8398-49F6FFD046C2}
 	EndGlobalSection
 EndGlobal
